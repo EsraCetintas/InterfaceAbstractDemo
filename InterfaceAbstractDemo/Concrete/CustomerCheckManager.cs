@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceAbstractDemo.Concrete
 {
+     //Test etmek için
     public class CustomerCheckManager : ICustomerCheckService
     {
         public bool CheckIfRealPerson(Customer customer)
